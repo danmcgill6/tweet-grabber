@@ -1,0 +1,18 @@
+# package directories
+node_modules
+jspm_packages
+
+#environment variables
+.env
+serverless.env.yml
+
+# Serverless directories
+.serverless
+
+#LEGACY CODE
+routes/
+
+#CURRENTLY IN DEVELOPMENT
+models/article.js
+models/developer.js
+models/user.js
